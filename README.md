@@ -12,29 +12,30 @@ Welcome to **pankayat steel something something!** Here, we deeply commit to *so
     
          ##### Here is our table of prices:
 
-    | Pipe | Size | Price | | ------------- |:-------------:| -----:|
-    | this | right-aligned | $1600 |
-   | this | centered | $12 |
-    | this | are neat | $1 |
-    | this | right-aligned | $1600 |
-    | this | centered | $12 |
-    | zebra stripes | are neat | $1 |
-   | col 3 is | right-aligned | $1600 |
-    | col 2 is | centered | $12 |
-    | zebra stripes | are neat | $1 |
-   | col 2 is | centered | $12 |
-   | zebra stripes | are neat | $1 |
-   | col 3 is | right-aligned | $1600 |
-    | col 2 is | centered | $12 |
-    | zebra stripes | are neat | $1 |
-    | col 3 is | right-aligned | $1600 |
-    | col 2 is | centered | $12 |
-   | zebra stripes | are neat | $1 |
-    | col 2 is | centered | $12 |
-   | zebra stripes | are neat | $1 |
-   | col 3 is | right-aligned | $1600 |
-    | col 2 is | centered | $12 |
-    | zebra stripes | are neat | $1 |
-    | col 3 is | right-aligned | $1600 |
-   | col 2 is | centered | $12 |
-   | zebra stripes | are neat | $1 |
+| Pipe         | Size          | Price | 
+| -------------|:-------------:| -----:|
+| this         | right-aligned | $1600 |
+| this         | centered      | $12   |
+| this         | are neat      | $1    |
+| this         | right-aligned | $1600 |
+| this         | centered      | $12   |
+| zebra stripes| are neat      | $1    |
+| col 3 is     | right-aligned | $1600 |
+| col 2 is     | centered      | $12   |
+| zebra stripes| are neat      | $1    |
+| col 2 is     | centered      | $12   |
+| zebra stripes| are neat      | $1    |
+| col 3 is     | right-aligned | $1600 |
+| col 2 is     | centered      | $12   |
+| zebra stripes| are neat      | $1    |
+| col 3 is     | right-aligned | $1600 |
+| col 2 is     | centered      | $12   |
+| zebra stripes| are neat      | $1    |
+| col 2 is     | centered      | $12   |
+| zebra stripes| are neat      | $1    |
+| col 3 is     | right-aligned | $1600 |
+| col 2 is     | centered      | $12   |
+| zebra stripes| are neat      | $1    |
+| col 3 is     | right-aligned | $1600 |
+| col 2 is     | centered      | $12   |
+| zebra stripes| are neat      | $1    |
